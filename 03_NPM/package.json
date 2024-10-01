@@ -1,0 +1,11 @@
+{
+  "name": "primeros-pasos-npm",
+  "version": "1.0.0",
+  "description": "En ese Proyecto aprendemos el NPM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jerry garcia <jerrygarciatanta@gmail.com>",
+  "license": "ISC"
+}
